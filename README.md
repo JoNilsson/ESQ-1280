@@ -1,5 +1,5 @@
 # Bassmobile [ESQ-1280](https://rvrb.io/1986-esq-1-wave-sy-mpfyc0)
-![ESQ-1280](https://github.com/JoNilsson/ESQ-1280/blob/main/ESQ-1280%20Medium.jpeg)
+![ESQ-1280](https://github.com/JoNilsson/ESQ-1280/blob/main/ESQ-1280%20Medium.jpeg)![ESQ-1280](https://github.com/JoNilsson/ESQ-1280/blob/main/ESQ-1280%20Medium%202.jpeg)
 
 
 Full list of patches included on the Bassmobile ESQ-1280 rewritable patch bank cartridge.
