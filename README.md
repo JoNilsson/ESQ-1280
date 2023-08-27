@@ -26,7 +26,7 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 
 
 ## FACTORY VPC-1: "Classic Mix 1"
-
+```
  1: TPIANO   2: BEGONE   3: HRNSEC  4: STRBAS    5: KICK 2  
  6: PNOSTR   7: SING6    8: KIEV    9: ICEPOP   10: SEGULS  
 11: MCROAD  12: PORGN2  13: 5OFSWE  14: VOXBAS  15: HI HAT  
@@ -44,9 +44,9 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: BANJO   27: BASOON  28: WASH    29: AFTGLO  30: PUTERS  
 31: BELKBD  32: BASIC   33: SYNLED  34: GROWL   35: KRUMBA  
 36: WHLPLK  37: SHOU 2  38: BEDTME  39: METBAR  40: LAUGHS  
-
+```
 ## FACTORY VPC-2: "Classic Mix 2"
-
+```
  1: PIANO3   2: DGSLAP   3: BRSBAS   4: BASS2    5: VIBES1  
  6: AMBSTR   7: VOXRES   8: CHARMS   9: ZEETAR  10: ARCTIC  
 11: R0CK.1  12: JSTEEL  13: PSTEEL  14: PLKBAS  15: STDRM1  
@@ -64,9 +64,9 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: AIRSAW  27: RECRDR  28: SWELL<  29: MCECHO  30: SQUIRM  
 31: _BRON_  32: SLOPNO  33: HEAVY1  34: MIAMI2  35: ICEBL2  
 36: SWITCH  37: HORN    38: WRING   39: GOGEE   40: SYMBAL  
-
+```
 ## FACTORY VPC-3: "Layers 1"
-
+```
  1: PHNTSM   2: BENHUR    3: CHMRKL  4: STRT/F   5: WNDBRS  
  6: SPOTS2   7: SUITAR    8: VOXLYR  9: JAZKOR  10: BRETH1  
 11: LOWSAW  12: DUMDUM  13: SYNBAD  14: SHINAR  15: PNOBRS  
@@ -84,9 +84,9 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: PLUCK2  27: VELBRS  28: PLKBAS  29: CHIF'   30: SPLISH  
 31: BIGTOP  32: BRAZZ   33: SPATS   34: ATMOS5  35: GLDBL+  
 36: BUMP    37: CHIPS.  38: FLICK   39: HITTAR  40: WAHZOO  
-
+```
 ## FACTORY VPC-4: "Classic Mix 3"
-
+```
  1: PANPNO   2: VOXPAD   3: REVERB   4: PNBASS   5: ORBEL2  
  6: BELSTR   7: VOX 3    8: JBELL2   9: FEXEL1  10: WNDCHM  
 11: CHAO    12: SABIAN  13: AALOG   14: BAS R2  15: KLACK1  
@@ -104,9 +104,9 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: ALPHA3  27: VIENNA  28: AIRLOK  29: KISSER  30: MOVIE1  
 31: POWER   32: COMORG  33: PEDSTH  34: MINIM6  35: OHIHAT  
 36: SOOTHS  37: SAKBT2  38: WHEELS  39: PROBE9  40: GEEWIZ  
-
+```
 ## FACTORY VPC-5: "Studio Mix 1"
-
+```
  1: DGPNO2   2: RESOCT   3: DG-BRI   4: KEBASS   5: VIBES2  
  6: PSYNTO   7: PLKVOX   8: SLOBEL   9: SQRSWP  10: ASTRAL  
 11: DGWHO?  12: SQREEJ  13: BRAUN   14: BASTE2  15: VERBBA  
@@ -124,9 +124,9 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: TODD'S  27: CHIFFS  28: QUEST   29: GEGEE2  30: DROID  
 31: PIANOE  32: TWEAK   33: MINIM4  34: Z-SLAP  35: GATED  
 36: ARK     37: BASCLR  38: RIPPLE  39: TOQ     40: DEPMOD  
-
+```
 ## FACTORY VPC-6: "Layers 2"
-
+```
  1: ATMOS6   2: ANSTR5   3: ANSTR7   4: VELSWP   5: ANSTR8  
  6: CHOPS    7: VELREZ   8: MEOWST   9: EL REZ  10: FLTSTG  
 11: GRVYRD  12: GHOSTS  13: PERU 2  14: RELESE  15: BNJO-X  
@@ -144,9 +144,9 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: SPCBUS  27: TUNNEL  28: ANSTR9  29: NOISEY  30: BRASS8  
 31: MALLET  32: SYNGYT  33: SYNAXE  34: RUFCUT  35: AIRVIB  
 36: DENTAL  37: JUNGLE  38: CATBEL  39: CUPBEL  40: ZEUS..  
-
+```
 ## FACTORY VPC-7: "Studio Mix 2"
-
+```
  1: HARPSO   2: HOTBOT   3: ANSYN2   4: SYNBS2   5: GATED  
  6: SHRTST   7: FAAH     8: VELBEL   9: ARPEGI  10: BIRDS  
 11: TOADQ   12: ZILTS   13: SYNBRA  14: FATBAS  15: CLAP 1  
@@ -164,10 +164,9 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: 6 STR   27: BOROOT  28: PLKOFF  29: LOOPJE  30: ICICLE  
 31: TOYNSE  32: BLAP    33: HIPLSE  34: BASS 5  35: KICKLO  
 36: 12 STR  37: SAKU-H  38: AMBVIB  39: NIMPEX  40: BENDUP  
-
-
+```
 ## FACTORY VPC-8: "Contemporary Mix 1"
-
+```
  1: PIANO4   2: SQRSAW   3: MINIM5   4: BIGBAS   5: BRSSNR  
  6: HOTTLS   7: WAAHHS   8: ECHBEL   9: FUYUNG  10: SPLUSH  
 11: PNOPAD  12: HALPNO  13: SOFSHU  14: BASS 6  15: SNARE&  
@@ -185,10 +184,9 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: FINE    27: SNORKY  28: CALM1   29: NERTS   30: CHROM/  
 31: GUTPNO  32: ICESAW  33: LEAD 1  34: WOMMP   35: SKUNK  
 36: AMBVB2  37: NUTZ2U  38: TRIPLS  39: APRES   40: CHROM2  
-
-
+```
 ## FACTORY VPC-10: "Contemporary Mix 2"
-
+```
  1: PNOTNE   2: HERO     3: ARIEL    4: ZSTRNG   5: PWRHIT  
  6: WAFFEL   7: YASKME   8: CAVE     9: FRSAIR  10: KIBOLS  
 11: PIANO6  12: STKITT  13: NOBHRN  14: GRIND   15: CTKICK  
@@ -206,9 +204,9 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: SOFLUL  27: IT'SOK  28: DELAY2  29: NOVA    30: HYPER  
 31: MTLROD  32: THDWLD  33: WARMTH  34: VOLTZ   35: PERCU2  
 36: HARPY   37: PHUNK   38: TUNNL2  39: THROBE  40: CALCTA  
-
+```
 ## FACTORY VPC-9: "Layers 3"
-
+```
  1: NERVES   2: GOBLIN   3: LATVIA   4: MRSKIM   5: FADE->  
  6: SFTBEL   7: FOGBEL   8: DINK     9: SWIZLE  10: LEFTST  
 11: EVNING  12: POINTS  13: GATED   14: D-STRG  15: LAZY  
@@ -227,9 +225,9 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: PAN     27: KYBD99  28: TENTIV  29: COMAGN  30: CUTTER  
 31: SKITS   32: LFOBEL  33: KLAPZ+  34: WNDSHK  35: CLYPSO  
 36: BRETH9  37: PINDRM  38: BELDRM  39: WINDS   40: SHAKE2  
-
+```
 ## VOLUME #11 PA CART 1
-
+```
  1: GRANDP   2: AC PI    3: KIC PI   4: CRSPIN   5: LIVE P  
  6: CH PNO   7: P-ST/R   8: FM PIA   9: DX PIA  10: A-RHOD  
 11: RHOD*A  12: D 50 R  13: D 50 2  14: BASS.A  15: BR STR  
@@ -248,9 +246,9 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: BIRDS   27: PLANE   28: DELAYD  29: SN-OTT  30: ALI *T  
 31: EXPAN   32: DSSGIT  33: DOPGGI  34: POLY1S  35: FUNKI  
 36: N0STAL  37: LABA *  38: TX81ZW  39: ORG DE  40: BA DRU  
-
+```
 ## VOLUME #12 PA CART 2
-
+```
  1: ORC ST   2: BRE ST   3: GABR A   4: TROM A  5: TROM B  
  6: D-GUIT   7: M 100-   8: MOD A*   9: PLAYER 10: ATARI1  
 11: BRE1WE  12: SUP,ST  13: EF HAL  14: ATA, B 15: WIND+E  
@@ -260,7 +258,6 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 31: GIONS   32: AFRO 1  33: AFRO 2  34: CABAS1 35: HORSE1  
 36: STEL.D  37: TOMS 1  38: HOHNER  39: MUSETT 40: ACCOR1  
 
-
  1: NATUR1   2: MATRIX   3: ORGAN*   4: AC DRU   5: DXV2BA  
  6: 707 BR   7: SWEB W   8: MAL SQ   9: STR AC  10: SOLO B  
 11: FULL A  12: LONG D  13: BRA5-K  14: BASS K  15: SAXO  
@@ -269,9 +266,9 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: DX 7II  27: KORKM1  28: YA V2   29: LAYERA  30: PINS 1  
 31: NICOLA  32: OTTO A  33: TREND   34: HOME    35: THATS  
 36: D P6    37: LIKE    38: ENO SO  39: CARE    40: PLEASE  
-
+```
 ## VOLUME #13: DIGITAL BRASS 1
-
+```
  1: GRANDP   2: STEINW   3: HONKEY   4: KLA-5    5: KLA-4   
  6: WING     7: TOY-PI   8: FMPNO2   9: FMPNO3  10: OCTPNO  
 11: DX-PIA  12: BECHST  13: X-KLAV  14: BRAS-1  15: BRAS-2  
@@ -289,9 +286,9 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: CHMPNO  27: KORGBS  28: DXVIOL  29: ESQBRS  30: IONS  
 31: CLAVIN  32: DROPS1  33: DROPS2  34: FLU/GL  35: BAS/BR  
 36: STEEL*  37: KORG/P  38: CLA/-2  39: REL/SI  40: OPS/R,  
-
+```
 ## VOLUME #14: DIGITAL BRASS 2
-
+```
  1: SERERO   2: ORCHES   3: ATARI6   4: GABR 2   5: TROMP6  
  6: D-GUIT   7: ORGAN*   8: KULT *   9: SPIELE  10: YAMAHA  
 11: ATARI   12: BEST B  13: DOP1WE  14: SUP,ST  15: NENA ?  
@@ -309,9 +306,9 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: CEMB A  27: PEPE 6  28: N FLUT  29: DXFLUT  30:  HARP9  
 31: -HARDQ  32: *HIHAT  33: COLL D  34: *DX-BA  35: STARSC  
 36: TOKIO-  37: A GITA  38: FLUG 1  39: SPEC 1  40: GIMBA2  
-
+```
 ## VOLUME #15: DIGITAL BRASS 3
-
+```
  1: RELE 1   2: RELE 2   3: RELE 3   4: RELE 4   5: RELE 5  
  6: RELE 6   7: RELE 7   8: RELE 8   9: RELE 9  10: ORGEL1  
 11: ORGEL2  12: ORGEL3  13: ORGEL4  14: ORGEL5  15: ORGEL6  
@@ -329,9 +326,9 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: REPBEL  27: LUVPIG  28: SOLO V  29: ARCTIC  30: SPDWA2  
 31: DRORGN  32: NOT ME  33: PRCORG  34: TAP-NZ  35: BELLS0  
 36: SQRBEN  37: PNGPNG  38: EVOLVE  39: HARPY   40: SOLO V  
-
+```
 ## VOLUME #16: Roland MT-32 Cartridge A & B
-
+```
  1: ECHOBL   2: ICERAN   3: ELOBOE   4: FLTBEL   5: SPRSTR  
  6: SCHOOL   7: BELSNG   8: SQWAVE   9: BELSTR  10: DELSTR  
 11: HISTRN  12: LOSTRN  13: VIOLYN  14: VIOLN2  15: CELLO1  
@@ -349,3 +346,4 @@ Cartridges are made to order, please allow 7-14 days for order fulfillment.  
 26: KOTO    27: SHO     28: SHAKUH  29: WHISLE  30: WHSTL2  
 31: BTLBLO  32: BRTHPP  33: TYMPNY  34: MELTOM  35: SNARE  
 36: BASDRM  37: KICK    38: CLAP    39: RIMSHT  40: SHAKER  
+```
