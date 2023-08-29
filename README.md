@@ -10,7 +10,7 @@ ENSONIQ ESQ-1 / SQ-80 / ESQ-M
 
 Bassmobile's Ensoniq memory cartridge comes pre-loaded with 1280 patches.  
 💥 A brand new cartridge, but the sounds it ships with inside are the original sounds of the mid 80's. 😎🎹  
-This is a brand new cartridge, a high quality circuit board enclosed in a custom designed & high quality glow-in-the-dark 3D printed outer plastic shell.  
+This is a high quality circuit board enclosed in a custom designed & high quality glow-in-the-dark 3D printed outer plastic shell.  
     
     - Cartridge stores 32 banks of 40 patches each.
     -🔌 PLUG AND PLAY 
